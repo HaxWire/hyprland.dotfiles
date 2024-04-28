@@ -1,6 +1,26 @@
 # minimal monochrome rice for hyprland
 
-install script : (comming soon)
+
+###A minimal hyprland rice made for notebooks.
+Shortcuts:
+Super + F - FireFox
+Super + Q - Kitty
+Super + E - PcmanFM-QT
+Super + R - Wofi
+Super + ESC - Nwg-Bar
+
+(See more in hypr/hyprland.conf)
+
+Packages:
+`Wofi
+PcmanFM-QT
+Kitty
+Waybar
+NWG-Bar
+hyprshot
+brightnessctl
+neofetch`
+
 
 No code is original, just modified to fit my use.
 
@@ -11,3 +31,6 @@ No code is original, just modified to fit my use.
 
 ![2024-04-28-122240_hyprshot](https://github.com/HaxWire/hyprland.dotfiles/assets/19493307/74cd4d64-0a28-4c34-8729-1e82093cb673)
 
+
+
+install script : (comming soon)
