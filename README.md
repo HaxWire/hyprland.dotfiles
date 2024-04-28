@@ -1,25 +1,33 @@
 # minimal monochrome rice for hyprland
 
 
-###A minimal hyprland rice made for notebooks.
+### minimal hyprland rice made for notebooks.
+
 Shortcuts:
-Super + F - FireFox
+```Super + F - FireFox
+
 Super + Q - Kitty
+
 Super + E - PcmanFM-QT
+
 Super + R - Wofi
+
 Super + ESC - Nwg-Bar
+PRT SCR - hyprshot -m region
 
 (See more in hypr/hyprland.conf)
+```
 
 Packages:
-`Wofi
+```Wofi
 PcmanFM-QT
 Kitty
 Waybar
 NWG-Bar
 hyprshot
 brightnessctl
-neofetch`
+neofetch
+```
 
 
 No code is original, just modified to fit my use.
