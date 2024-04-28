@@ -25,8 +25,10 @@ Kitty
 Waybar
 NWG-Bar
 hyprshot
+hyprlock
 brightnessctl
 neofetch
+
 ```
 
 
