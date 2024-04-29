@@ -1,12 +1,12 @@
 [
   {
     "label": "Lock",
-    "exec": "swaylock -f -c 000000",
+    "exec": "hyprlock",
     "icon": "/usr/share/nwg-bar/images/system-lock-screen.svg"
   },
   {
     "label": "Hibernate",
-    "exec": "hyprlock",
+    "exec": "sudo systemctl suspend",
     "icon": "/usr/share/nwg-bar/images/system-hibernate.svg"
   },
   {
