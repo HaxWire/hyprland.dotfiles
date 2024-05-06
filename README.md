@@ -19,8 +19,9 @@ PRT SCR - hyprshot -m region
 ```
 
 Packages:
-```Wofi
-PcmanFM-QT
+```
+Wofi
+PcmanFM
 Kitty
 Waybar
 NWG-Bar
